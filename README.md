@@ -1,2 +1,2 @@
 # Mangle
-Slice and dice ML models with math in ComfyUI
+Slice and dice ML models with math in ComfyUI. Coming soon.
